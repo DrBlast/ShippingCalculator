@@ -22,7 +22,7 @@ public class ShippingCalc {
      * @param distance to destination point, km
      * @param isOversized are goods oversized
      * @param isFragile are goods fragile
-     * @param workload of delivery service, possible values (LOW, HIGH, VERY_HIGH, SUPER_HIGH
+     * @param workload of delivery service, possible values (LOW, INCREASED, HIGH, VERY_HIGH)
      * @return calculated shipping cost
      * @throws Error
      */
